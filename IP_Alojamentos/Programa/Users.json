@@ -1,0 +1,84 @@
+{
+    "1": {
+        "name": "admin",
+        "username": "admin",
+        "password": "admin",
+        "booking_history": {}
+    },
+    "2": {
+        "name": "e",
+        "username": "e",
+        "password": "e",
+        "booking_history": {
+            "1": {
+                "1": {
+                    "check_in_date": "2022-09-04",
+                    "number_days": 8,
+                    "check_out": "2022-09-11",
+                    "number_occupants": 2,
+                    "likert": 4
+                },
+                "2": {
+                    "check_in_date": "2022-06-09",
+                    "number_days": 7,
+                    "check_out": "2022-06-15",
+                    "number_occupants": 2,
+                    "likert": 3
+                },
+                "3": {
+                    "check_in_date": "2022-09-13",
+                    "number_days": 7,
+                    "check_out": "2022-09-19",
+                    "number_occupants": 1,
+                    "likert": 1
+                },
+                "4": {
+                    "check_in_date": "2022-09-21",
+                    "number_days": 1,
+                    "check_out": "2022-09-21",
+                    "number_occupants": 1,
+                    "likert": 5
+                }
+            },
+            "2": {
+                "1": {
+                    "check_in_date": "2022-06-09",
+                    "number_days": 2,
+                    "check_out": "2022-06-10",
+                    "number_occupants": 4,
+                    "likert": 4
+                },
+                "2": {
+                    "check_in_date": "2022-05-01",
+                    "number_days": 1,
+                    "check_out": "2022-05-01",
+                    "number_occupants": 1,
+                    "likert": 5
+                },
+                "3": {
+                    "check_in_date": "2022-01-01",
+                    "number_days": 3,
+                    "check_out": "2022-01-03",
+                    "number_occupants": 4,
+                    "likert": null
+                }
+            }
+        }
+    },
+    "3": {
+        "name": "joao",
+        "username": "joaop",
+        "password": "123",
+        "booking_history": {
+            "1": {
+                "1": {
+                    "check_in_date": "2022-01-01",
+                    "number_days": 2,
+                    "check_out": "2022-01-02",
+                    "number_occupants": 1,
+                    "likert": null
+                }
+            }
+        }
+    }
+}
