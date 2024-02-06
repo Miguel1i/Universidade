@@ -1,0 +1,149 @@
+Número de Grupos: 9 | Número de Mesas: 5
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 2 clientes foi colocado na mesa 1 
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 4 clientes foi colocado na mesa 4 
+O grupo de 2 clientes foi colocado na mesa 3 
+O grupo de 2 saiu da mesa 3 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 3 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 2 saiu da mesa 3 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 3 
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 2 saiu da mesa 3 e do restaurante
+O grupo de 2 saiu da mesa 1 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 3 
+O grupo de 4 saiu da mesa 4 e do restaurante
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 4 
+O grupo de 2 saiu da mesa 4 e do restaurante
+O grupo de 2 saiu da mesa 3 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 4 
+O grupo de 2 saiu da mesa 4 e do restaurante
+
+Número de Grupos: 10 | Número de Mesas: 4
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 2 clientes foi colocado na mesa 1 
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 6 clientes foi colocado na mesa 3 
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 6 saiu da mesa 3 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 3 
+O grupo de 2 saiu da mesa 1 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 1 
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 2 
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 4 saiu da mesa 2 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 2 
+O grupo de 2 saiu da mesa 3 e do restaurante
+O grupo de 4 saiu da mesa 1 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 3 
+O grupo de 4 saiu da mesa 2 e do restaurante
+O grupo de 4 saiu da mesa 3 e do restaurante
+
+Número de Grupos: 10 | Número de Mesas: 3
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 1 
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 2 saiu da mesa 1 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 2 saiu da mesa 2 e do restaurante
+
+Número de Grupos: 18 | Número de Mesas: 3
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 4 clientes foi colocado na mesa 2 
+O grupo de 4 saiu da mesa 2 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 1 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 2 
+O grupo de 6 clientes foi colocado na mesa 0 
+O grupo de 2 saiu da mesa 1 e do restaurante
+O grupo de 6 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 2 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 2 
+O grupo de 4 saiu da mesa 2 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 1 
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 2 saiu da mesa 1 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 2 
+O grupo de 6 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 2 e do restaurante
+O grupo de 6 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 2 
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 2 e do restaurante
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 2 
+O grupo de 4 saiu da mesa 2 e do restaurante
+
+Número de Grupos: 18 | Número de Mesas: 3
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 2 clientes foi colocado na mesa 1 
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 2 saiu da mesa 1 e do restaurante
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 1 
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 1 e do restaurante
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 1 
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 2 saiu da mesa 1 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 2 clientes foi colocado na mesa 1 
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 0 
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 2 saiu da mesa 0 e do restaurante
+O grupo de 6 clientes foi colocado na mesa 0 
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 2 clientes foi colocado na mesa 2 
+O grupo de 2 saiu da mesa 1 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 1 
+O grupo de 6 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 0 
+O grupo de 4 saiu da mesa 1 e do restaurante
+O grupo de 2 saiu da mesa 2 e do restaurante
+O grupo de 4 saiu da mesa 0 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 1 
+O grupo de 4 saiu da mesa 1 e do restaurante
+O grupo de 4 clientes foi colocado na mesa 2 
+O grupo de 4 saiu da mesa 2 e do restaurante
