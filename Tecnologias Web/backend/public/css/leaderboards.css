@@ -1,0 +1,109 @@
+@import url("https://fonts.cdnfonts.com/css/counter-strike");
+
+.background-video {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.background-video video {
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.leaderboards-container {
+  display: flex;
+  justify-content: center;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+  margin-top: 1%;
+}
+
+.leaderboards-title {
+  color: var(--Color-2, #fff);
+  font: 400 64px counter-strike, sans-serif;
+  margin-bottom: 6%;
+}
+
+.tab-container {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background-color: #fffdfd;
+  width: 93%;
+  padding: 13px 14px;
+}
+
+.individual-column,
+.team-column {
+  flex: 1;
+}
+
+.individual-heading,
+.team-heading {
+  background-image: url("/images/back_azul.jpg");
+  color: #fff;
+  font-size: 30px;
+  padding: 10px 35px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 2%;
+}
+
+.player-container {
+  border-radius: 13px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background-color: #fffdfd;
+  margin-top: 2%;
+  width: 93%;
+  padding: 12px;
+  align-items: center;
+}
+
+.player-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: -10px;
+}
+
+
+.rank {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.player-name {
+  flex: 1;
+  font-size: 30px;
+  text-align: center;
+}
+
+.player-score {
+  font-size: 30px;
+  text-align: right;
+}
+
+
+.arrow-icon {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}

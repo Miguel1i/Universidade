@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="/css/login.css" />
+  </head>
+  <body>
+    <div class="menu">
+      <div class="menu2">
+        <img src="/images/divider.png" />
+      </div>
+      <div class="cstext">
+        <img src="/images/text.png" />
+      </div>
+      <div class="logintext">
+        <p>Login</p>
+      </div>
+      <div class="form">
+        <form class="form" action="/api/auth" method="post">
+          <div class="user">
+            <input
+              type="text"
+              id="username"
+              name="username"
+              placeholder="USERNAME"
+            />
+            <input
+              type="password"
+              id="password"
+              name="password"
+              placeholder="PASSWORD"
+            />
+          </div>
+          <div class="submit">
+            <input type="submit" value="LOGIN" />
+          </div>
+        </form>
+      </div>
+      <div class="or">
+        <p>Or</p>
+      </div>
+      <div class="logo">
+        <a href="#"><img src="/images/google.png" /></a>
+      </div>
+      <div class="criar">
+        <a href="/users/registo"> Cria uma conta </a>
+      </div>
+    </div>
+  </body>
+</html>

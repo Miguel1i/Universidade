@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.bg-video {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+.bg-video video {
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#timer {
+  font-family: "Quantico", sans-serif;
+  color: white;
+  font-size: xx-large;
+  display: flex;
+  justify-content: center;
+}
+
+.mvp-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  border-radius: 50px;
+  margin-top: 2%;
+}
+
+#question-container {
+  display: flex;
+  flex-direction: line;
+  justify-content: center;
+  align-items: center;
+}
+
+#question {
+  font-size: 40px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-right: 1.3%;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 3%;
+  text-align: center;
+}
+
+input[type="text"] {
+  font-size: 26px;
+  padding: 5px 0; 
+  border: none;
+  border-bottom: 1px solid white; 
+  background-color: transparent; 
+  text-align: center;
+  width: 10%; 
+  outline: none; 
+  color: white;
+}
+
+
+
+.options p {
+  font-size: 24px;
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: center;
+  min-width: 150px;
+  width: fit-content;
+  margin: 0 10px;
+}

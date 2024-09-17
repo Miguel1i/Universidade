@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pagina de Pergunta +1</title>
+    <link rel="stylesheet" type="text/css" href="/css/questao_mais1.css" />
+  </head>
+  <body>
+    <div class="bg-video">
+      <video autoplay loop muted>
+        <source src="/videos/mirage-snow.webm" type="video/webm" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div id="timer">
+      <p>5:00</p>
+    </div>
+    <img src=<%=image%> alt="grenades" class="grenades" />
+    <div class="question">
+      <p><%=question%></p>
+    </div>
+    <div class="form">
+      <form id="questionForm">
+        <div class="button-grid">
+          <input
+            class="change-color-button"
+            type="button"
+            id="answer1"
+            name="answers"
+            onclick="toggleClicked(this)"
+            value=<%=options[0]%>>
+          <input
+            class="change-color-button"
+            type="button"
+            id="answer2"
+            name="answers"
+            onclick="toggleClicked(this)"
+            value=<%=options[1]%>>
+          <input
+            class="change-color-button"
+            type="button"
+            id="answer3"
+            name="answers"
+            onclick="toggleClicked(this)"
+            value=<%=options[2]%>>
+          <input
+            class="change-color-button"
+            type="button"
+            id="answer4"
+            name="answers"
+            onclick="toggleClicked(this)"
+            value=<%=options[3]%>>
+        </div>
+        <button type="submit" onclick="showSelectedAnswers(this) ">next</button>
+      </form>
+    </div>
+
+    <script>
+      function toggleClicked(button) {
+        var clickedButtons = document.querySelectorAll(
+          ".change-color-button.clicked"
+        );
+
+        if (
+          clickedButtons.length >= 3 &&
+          !button.classList.contains("clicked")
+        ) {
+          return;
+        }
+        button.classList.toggle("clicked");
+      }
+
+      function showSelectedAnswers(button) {
+        var selectedButtons = document.querySelectorAll(
+          ".change-color-button.clicked"
+        );
+        if (selectedButtons.length === 0) {
+          alert("Please select at least one answer.");
+          return;
+        }
+
+        var selectedAnswers = [];
+        selectedButtons.forEach(function (button) {
+          selectedAnswers.push(button.value);
+        });
+
+        alert("Selected answers: " + selectedAnswers.join(", "));
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Counter-Strike Quiz</title>
+    <link rel="stylesheet" type="text/css" href="/css/registo.css" />
+  </head>
+  <body>
+    <img src="/images/divider.png" alt="divisor" />
+    <div class="header">
+      <span id="Counter-Strike">Counter-Strike </span>
+      <span id="Quiz">Quiz</span>
+    </div>
+    <h1 id="registar">REGISTAR</h1>
+    <div class="formulario">
+      <form action="/users" method="post">
+        <input
+          type="text"
+          name="username"
+          id="username"
+          placeholder="NOME"
+          required
+        />
+        <br />
+        <input
+          type="text"
+          name="firstName"
+          id="firstName"
+          placeholder="PRIMEIRO NOME"
+          required
+        /><br />
+        <input
+          type="text"
+          name="lastName"
+          id="lastName"
+          placeholder="ÚLTIMO NOME"
+          required
+        /><br />
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="EMAIL"
+          required
+        /><br />
+        <input
+          type="password"
+          name="password"
+          id="password"
+          placeholder="PASSWORD"
+          required
+        /><br />
+        <input type="submit" value="CRIAR CONTA" />
+      </form>
+    </div>
+    <h1 id="ou">Or</h1>
+    <img id="google-icon" src="/images/google.png" alt="Google Icon" />
+    <a href="/auth/login"><h1 id="conta-existente">Já tem conta? LOGIN</h1></a>
+  </body>
+</html>

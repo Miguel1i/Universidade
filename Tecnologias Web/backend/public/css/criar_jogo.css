@@ -1,0 +1,74 @@
+@import url("https://fonts.cdnfonts.com/css/counter-strike");
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+body {
+  background-image: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+}
+
+.header {
+  width: 1000px;
+  height: 200px;
+  margin-left: 2%;
+  margin-top: 25%;
+  position: relative;
+}
+
+#Counter-Strike {
+  color: white;
+  font-size: 110px;
+  font-family: Counter-Strike;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+#Quiz {
+  color: white;
+  font-size: 50px;
+  font-family: Counter-Strike;
+  font-weight: 500;
+  word-wrap: break-word;
+  margin-left: 57%;
+}
+
+.title {
+  margin-left: 3%;
+  position: absolute;
+}
+
+.title img {
+  width: 46px;
+  height: 46px;
+}
+
+.op1,
+.op2 p {
+  color: white;
+  font-family: Abeezee;
+  font-size: 40px;
+  font-weight: 100;
+  margin-bottom: 1%;
+}
+
+.op1,
+.op2 {
+  margin-left: 7%;
+  margin-bottom: 2%;
+  position: relative;
+}
+
+label {
+  color: white;
+  font-size: x-large;
+  font-family: ABeeZee;
+  font-weight: lighter;
+  font-style: normal;
+}

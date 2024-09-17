@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap");
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+.bg-video {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  z-index: -1;
+}
+.bg-video video {
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  margin-left: 45%;
+  color: white;
+  font-family: ABeeZee;
+}
+.tabela {
+  margin-left: 30%;
+  margin-top: 10%;
+  width: 700px;
+  height: 600px;
+  border-radius: 72px;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+
+img {
+  margin-left: 25%;
+  margin-top: 3%;
+}
+h1 {
+  color: #1c273d;
+  font-family: ABeeZee;
+  font-size: 48px;
+}
+.score {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  width: 231px;
+  height: 94px;
+  border-radius: 13px;
+  margin-left: 35%;
+  background: url("/images/rect.png");
+  margin-bottom: 3%;
+}
+
+.score p {
+  color: white;
+  font-size: 85px;
+  font-family: ABeeZee;
+}
+
+button {
+  background: url("/images/rect.png");
+  width: 231px;
+  height: 94px;
+  border: none;
+  padding-left: 10px;
+  color: white;
+  font-family: ABeeZee;
+  font-size: 55px;
+  margin-left: 5%;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  margin-left: 12%;
+}
+
+h2 {
+  font-family: ABeeZee;
+  font-size: 48px;
+  color: white;
+  margin-left: 41%;
+}

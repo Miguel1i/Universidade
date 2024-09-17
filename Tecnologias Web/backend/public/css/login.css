@@ -1,0 +1,94 @@
+@import url("https://fonts.cdnfonts.com/css/counter-strike");
+
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+body {
+  background-image: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+}
+
+form input {
+  margin-top: 1%;
+  margin-left: 5%;
+}
+
+form .user input {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  width: 300px;
+  border: none;
+}
+
+.cstext img {
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-bottom: 7%;
+  width: 295px;
+  height: 38px;
+}
+
+.menu2 img {
+  width: 40%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.submit input {
+  margin-left: 5%;
+  margin-top: 19px;
+  height: 40px;
+  width: 300px;
+  border: none;
+}
+
+.logintext {
+  color: white;
+  font-size: 64px;
+  margin-left: 9%;
+  margin-bottom: 2%;
+  font-family: "Counter-Strike";
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.or p {
+  margin-top: 2%;
+  color: white;
+  font-size: 25px;
+  margin-left: 12%;
+  margin-bottom: 2%;
+  font-family: "Counter-Strike";
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.logo img {
+  margin-left: 12%;
+}
+
+.criar {
+  margin-top: 2%;
+  color: white;
+  font-size: 30px;
+  margin-left: 7%;
+  margin-bottom: 2%;
+  font-family: "Counter-Strike";
+  font-weight: 500;
+  word-wrap: break-word;
+  text-decoration: underline;
+}
+
+.criar a {
+  text-decoration: none;
+  color: white;
+}

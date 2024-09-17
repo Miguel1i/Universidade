@@ -1,0 +1,97 @@
+@import url("https://fonts.cdnfonts.com/css/counter-strike");
+
+body {
+  background-image: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 95%;
+}
+
+body img {
+  width: 40%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.header {
+  width: 295px;
+  height: 38px;
+  margin-left: 3.04%;
+  margin-top: 2.5%;
+  position: relative;
+}
+
+#Counter-Strike {
+  color: white;
+  font-size: 36px;
+  font-family: Counter-Strike;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+#Quiz {
+  color: white;
+  font-size: 24px;
+  font-family: Counter-Strike;
+  font-weight: 500;
+  word-wrap: break-word;
+  margin-left: 70%;
+}
+
+#registar {
+  position: relative;
+  color: white;
+  font-family: Counter-Strike;
+  font-size: 64px;
+  margin-left: 3.04%;
+  margin-top: 5%;
+}
+
+#ou {
+  top: 10px;
+  position: relative;
+  color: white;
+  font-family: Counter-Strike;
+  font-size: 24px;
+  margin-left: 11.8%;
+  font-weight: 500;
+}
+
+.formulario {
+  margin-top: 2%;
+  margin-left: 4%;
+}
+
+.formulario input {
+  width: 300px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+input[type="submit"] {
+  width: 308px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+#google-icon {
+  width: 36px;
+  height: 36px;
+  margin-left: 11.5%;
+  margin-top: 35%;
+}
+
+#conta-existente {
+  position: relative;
+  color: white;
+  font-family: Counter-Strike;
+  font-size: 24px;
+  margin-left: 6%;
+  margin-top: 6%;
+  font-weight: 500;
+  text-decoration: underline;
+}

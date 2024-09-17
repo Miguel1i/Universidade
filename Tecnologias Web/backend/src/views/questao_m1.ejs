@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Escolha Múltipla</title>
+    <link rel="stylesheet" type="text/css" href="/css/questao_m1.css" />
+  </head>
+  <body>
+    <div class="bg-video">
+      <video autoplay loop muted>
+        <source src="/videos/mirage-snow.webm" type="video/webm" />
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div class="container">
+      <div class="header" id="timer">
+        <p>0:20</p>
+      </div>
+      <img src=<%=image%> alt="Question" class="question-image"/>
+      <p class="question-text"><%=question%></p>
+      <div class="options">
+        <div class="radio-container">
+          <input type="radio" name="option" id="option1" />
+          <label for="option1" class="radio-button option1"
+            ><%=options[0]%></label
+          >
+        </div>
+        <div class="radio-container">
+          <input type="radio" name="option" id="option2" />
+          <label for="option2" class="radio-button option2"
+            ><%=options[1]%></label
+          >
+        </div>
+        <div class="radio-container">
+          <input type="radio" name="option" id="option3" />
+          <label for="option3" class="radio-button option3"
+            ><%=options[2]%></label
+          >
+        </div>
+        <div class="radio-container">
+          <input type="radio" name="option" id="option4" />
+          <label for="option4" class="radio-button option4"
+            ><%=options[3]%></label
+          >
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
