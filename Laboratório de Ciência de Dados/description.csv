@@ -1,0 +1,13 @@
+﻿Column;Key;Description;Measurement Scale
+bookID;✓;Identificador para cada livro;Nomial
+title;✓;Título do Livro;Nomial
+authors;✓;Nome dos autores;Nomial
+average_rating;X;Classificação média do livro;Quantitativa
+isbn;X;Um identificador único de 10 dígitos para livros;Nomial
+isbn13;X;Um identificador único de 13 dígitos para os livros;Nomial
+language_code;X;Idioma do Livro;Nomial
+num_pages;X;Número de páginas do livro;Quantitativa
+ratings_count;X;Número de classificações que o livro recebeu;Quantitativa
+text_reviews_count;X;O número de revisões de texto;Quantitativa
+publication_date;X;A data de publicação do livro;Ordinal
+publisher;X;Editora do livro;Nomial
